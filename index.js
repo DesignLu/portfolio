@@ -59,9 +59,3 @@ submit.addEventListener('submit',(e)=>{
 
 
 
-window.addEventListener('mouseup', function(e) {
-    var x = document.querySelector('navbar-collapse');
-    if (event.target != document.querySelector(".icon")) {
-        x.style.display = "none";
-    }
-});
