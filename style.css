@@ -1241,7 +1241,7 @@ nav .nav-list .nav-link {
     width: 400px;
     height: 300px;
     margin: 10px;
-    margin-left: -1%;
+    margin-left: 1%;
 
 }
 
@@ -1521,7 +1521,7 @@ textarea {
 #FAQs {
     width: 430px;
     min-height: 150hv;
-    margin-top: 234%; 
+    margin-top: 238%; 
     padding-top: 8%;
     padding-bottom: 15%;
     box-sizing: border-box;
@@ -1592,7 +1592,7 @@ textarea {
     background:rgb(12, 4, 4);
     text-align: center;
     margin-top: -1%;
-    padding-top: 13%;
+    padding-top: 35%;
 }
 
 .social-icon {
