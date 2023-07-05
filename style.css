@@ -58,7 +58,6 @@ nav .nav-list .nav-item {
     height: 100%;
     padding: 0 30px;
     transition: .4s;
-   
 }
 
 nav .nav-list .nav-item:hover {
@@ -223,7 +222,7 @@ nav .nav-list .nav-link {
     /*border: 1px solid white; */
     align-items: center;
     position: absolute;
-    top: 5%;
+    top: 10%;
     right: 10%;
 }
 
